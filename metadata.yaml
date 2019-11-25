@@ -1,24 +1,29 @@
 _repo: Summer-Guests_60726
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wood, Wallace
     alias: Wood, Wally
     birthdate: 1927
-    deathdate: &id001 1981
+    deathdate: 1981
     gutenberg_agent_id: '32276'
     url: http://www.gutenberg.org/2009/agents/32276
     wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+covers:
+- cover_type: archival
+  image_path: 60726-h/images/cover.jpg
 creator:
   author:
     agent_name: Schmitz, James H.
     alias: Schmitz, James Henry
     birthdate: 1911
-    deathdate: *id001
+    deathdate: 1981
     gutenberg_agent_id: '24957'
     url: http://www.gutenberg.org/2009/agents/24957
     wikipedia: http://en.wikipedia.org/wiki/James_H._Schmitz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60726#Summer-Guests
 gutenberg_issued: '2019-11-18'
 gutenberg_type: Text
 identifiers:
